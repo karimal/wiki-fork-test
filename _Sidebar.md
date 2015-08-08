@@ -1,13 +1,13 @@
 ---
 title: "_Sidebar"
 ---
-# JumpScale
+#### JumpScale
 
-* [Core](/documentation/Core)
-* [Devel](Devel)
-* [Grid](Grid)
+* [Core](/documentation/Core/core)
+* [Devel](/documentation/Devel/Devel)
+* [Grid](/documentation/Grid/Grid)
 * [Portal](https://github.com/Jumpscale/jumpscale_portal/wiki/)
-* [Howto](Howto)
-* [Architecture](Architecture)
-* [ContributeToDocs](ContributeToDocs)
-* [Human Readable Data Format](Human Readable Data Format)
+* [Howto](/documentation/Howto/Howto)
+* [Architecture](/documentation/Architecture/Architecture)
+* [ContributeToDocs](/documentation/ContributeToDocs)
+* [Human Readable Data Format](/documentation/core/Human-Readable-Data-Format)
