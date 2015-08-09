@@ -1,6 +1,6 @@
 ---
 title: "_Sidebar"
 ---
-# CodeManagement
+#### CodeManagement
 
-* [[Devel](Devel)]
+* [[Devel](/documentation/Devel/Devel)]

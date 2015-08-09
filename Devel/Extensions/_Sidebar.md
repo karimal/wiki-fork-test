@@ -1,6 +1,6 @@
 ---
 title: "_Sidebar"
 ---
-# Extensions
+#### Extensions
 
-* [[Devel](Devel)]
+* [[Devel](/documentation/Devel/Devel)]

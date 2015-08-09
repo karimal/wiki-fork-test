@@ -1,8 +1,8 @@
 # Core
 
-* [AtYourService](AtYourService)
-* [Human Readable Data](Human%20Readable%20Data)
-* [GettingStarted](GettingStarted)
-* [Install](Install)
-* [SomeExtensions](SomeExtensions)
-* [[Home](Home)]
+* [AtYourService](/documentation/Core/AtYourService/AtYourService)
+* [Human Readable Data](/documentation/Core/Human-Readable-Data-Format)
+* [GettingStarted](/documentation/Core/GettingStarted/GettingStarted)
+* [Install](/documentation/Core/Install/Install)
+* [SomeExtensions](/documentation/Core/SomeExtensions/SomeExtensions)
+* [[Home](/documentation/Home)]

@@ -2,6 +2,6 @@
 title: "_Sidebar"
 ---
 
-# Install
+#### Install
 
-* [[Core](Core)]
+* [[Core](/documentation/Core/Core)]

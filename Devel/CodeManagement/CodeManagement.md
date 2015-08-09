@@ -1,5 +1,5 @@
 Code management in jumpscale
 ============================
 
--   [jscode](jscode)
+-   [jscode](/documentation/Core/GettingStarted/JSCode)
 

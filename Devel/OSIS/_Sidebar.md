@@ -1,9 +1,9 @@
 ---
 title: "_Sidebar"
 ---
-# OSIS
+#### OSIS
 
-* [ROS](ROs)
-* [ModelSpec](ModelSpec)
+* [ROS](/documentation/ROs)
+* [ModelSpec](/documentation/Devel/OSIS/ModelSpec)
 * [Types](Types)
-* [[Devel](Devel)]
+* [[Devel](/documentation/Devel/Devel)]

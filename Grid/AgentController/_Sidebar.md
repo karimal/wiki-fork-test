@@ -2,14 +2,14 @@
 title: "_Sidebar"
 ---
 
-# AgentController
+#### AgentController
 
-* [AgentControllerInstall](AgentControllerInstall)
-* [AgentControllerServer](AgentControllerServer)
-* [DemoSetupTutorial](DemoSetupTutorial)
-* [GridMasterAllInOneInstall](GridMasterAllInOneInstall)
-* [JSAgent](JSAgent)
-* [JumpScript](JumpScript)
-* [ScheduleWork](ScheduleWork)
-* [Workers](Workers)
-* [[Grid](Grid)]
+* [AgentControllerInstall](/documentation/Grid/AgentController/AgentControllerInstall)
+* [AgentControllerServer](/documentation/Grid/AgentController/AgentControllerServer)
+* [DemoSetupTutorial](/documentation/Grid/AgentController/DemoSetupTutorial)
+* [GridMasterAllInOneInstall](/documentation/Grid/AgentController/GridMasterAllInOneInstall)
+* [JSAgent](/documentation/Grid/AgentController/JSAgent)
+* [JumpScript](/documentation/Grid/AgentController/JumpScript)
+* [ScheduleWork](/documentation/Grid/AgentController/ScheduleWork)
+* [Workers](/documentation/Grid/AgentController/Workers)
+* [[Grid](/documentation/Grid/Grid)]

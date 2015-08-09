@@ -8,10 +8,10 @@ JumpScale provides the capability to execute tasks on x number of nodes.
 
 Those tasks can be executed in different ways
 
--   async, task is executed in a [worker](workers)
+-   async, task is executed in a [worker](/documentation/Grid/AgentController/Workers)
 -   sync, task is executed in the [processmanager](processmanager)
 -   on interval, task is executed either in the
-    [processmanager](processmanager) or [worker](workers) on the
+    [processmanager](processmanager) or [worker](/documentation/Grid/AgentController/Workers) on the
     specified interval
 
 Architecture
@@ -20,9 +20,9 @@ Architecture
 Components
 ----------
 
--   [Agentcontroller](Agentcontroller)
+-   [Agentcontroller](/documentation/Grid/AgentController/Agentcontroller)
 -   [ProcessManager](ProcessManager)
--   [Worker](Worker)
+-   [Worker](/documentation/Grid/AgentController/Workers)
 
 How To
 ------

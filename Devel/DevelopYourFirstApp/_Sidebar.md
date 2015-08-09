@@ -1,7 +1,7 @@
 ---
 title: "_Sidebar"
 ---
-# DevelopYourFirstApp
+#### DevelopYourFirstApp
 
-* [Application Configuration](Application Configuration)
-* [[Devel](Devel)]
+* [Application Configuration](/documentation/Application-Configuration)
+* [[Devel](/documentation/Devel/Devel)]

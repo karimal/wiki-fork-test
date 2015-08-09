@@ -8,6 +8,6 @@ title: "_Sidebar"
 * [Grid](/documentation/Grid/Grid)
 * [Portal](https://github.com/Jumpscale/jumpscale_portal/wiki/)
 * [Howto](/documentation/Howto/Howto)
-* [Architecture](/documentation/Architecture/Architecture)
+* [Architecture](/documentation/Architecture)
 * [ContributeToDocs](/documentation/ContributeToDocs)
 * [Human Readable Data Format](/documentation/core/Human-Readable-Data-Format)

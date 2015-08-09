@@ -1,9 +1,9 @@
 ---
 title: "_Sidebar"
 ---
-# SomeExtensions
+#### SomeExtensions
 
-* [ByteProcessor](ByteProcessor)
-* [MailClient](MailClient)
-* [ModuleCodeTools](ModuleCodeTools)
-* [[Core](Core)]
+* [ByteProcessor](/documentation/Core/SomeExtensions/ByteProcessor)
+* [MailClient](/documentation/Core/SomeExtensions/MailClient)
+* [ModuleCodeTools](/documentation/Core/SomeExtensions/ModuleCodeTools)
+* [[Core](/documentation/Core/Core)]
