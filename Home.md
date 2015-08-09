@@ -36,18 +36,18 @@ Help us improve JumpScale
 
 How To Get Started
 ------------------
--   [Architecture and General Overview](Architecture)
--   [Installation](Install)
--   [Getting Started: The Basics](GettingStartedBasic)
--   [How to work with AtYourService](AtYourServiceIntro)
--   [Tricks in IPython with JumpScale](IPythonTricks)
+-   [Architecture and General Overview](/documentation/Architecture)
+-   [Installation](/documentation/Core/Install/Install)
+-   [Getting Started: The Basics](/documentation/Core/GettingStarted/GettingStartedBasic)
+-   [How to work with AtYourService](/documentation/Core/AtYourService/AtYourServiceIntro)
+-   [Tricks in IPython with JumpScale](/documentation/Core/GettingStarted/IPythonTricks)
 
 Concepts
 --------
 
--   [Human Readable Data Format](Human%20Readable%20Data%20Format)
+-   [Human Readable Data Format](/documentation/Core/Human-Readable-Data-Format)
 
 Extensions
 ----------
 
--   [Code Management](CodeManagement)
+-   [Code Management](/documentation/Devel/CodeManagement/CodeManagement)
