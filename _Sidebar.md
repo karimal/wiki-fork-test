@@ -3,7 +3,7 @@ title: "_Sidebar"
 ---
 #### JumpScale
 
-* [Core](/documentation/Core/core)
+* [Core](/documentation/Core/Core)
 * [Devel](/documentation/Devel/Devel)
 * [Grid](/documentation/Grid/Grid)
 * [Portal](https://github.com/Jumpscale/jumpscale_portal/wiki/)
