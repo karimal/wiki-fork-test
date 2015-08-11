@@ -2,13 +2,13 @@ Examples
 =========
 
 - We believe that the best way to understand something is through example.
-   - [Create a nodejs service](https://github.com/Jumpscale/jumpscale_core7/wiki/AtYourServiceExamples#create-a-nodejs-service)
-   - [Create Mongodb Package](https://github.com/Jumpscale/jumpscale_core7/wiki/AtYourServiceExamples#create-a-mongodb-service)
+   - [Create a nodejs service](/documentation/Core/AtYourService/AtYourServiceExamples#create-a-nodejs-service)
+   - [Create Mongodb Package](/documentation/Core/AtYourService/AtYourServiceExamples#create-a-mongodb-service)
 
 Create a NodeJS service templates
 ---------------------------------
 * **Binary data preparation**
-     - Create a repo on [Aydo](https://git.aydo.com) with the name: *nodejs* - [Contact us](info@incubaid.com) if you need access.
+     - Create a repo on [Aydo](https://git.aydo.com) with the name: *nodejs* - [Contact us](http://www.incubaid.com/contact-us/) if you need access.
      - Download Linux binaries service of nodejs from [here](http://nodejs.org/)
      - Extract the contents of that service in a directory called (nodejs)
      - Initialize a git Repo in that directory, commit changes and push to remote nodejs repo on [Aydo](https://git.aydo.com)

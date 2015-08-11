@@ -8,11 +8,11 @@ Introduction
 
 **Modelisation tool**:
 AtYourService let you create so called 'service templates' that can be used to represent nearly anything. From your datacenter infrastructure to a server cluster.
-AtYourService will create a hierarchy of folder in which are contained all the metadata about your services (see [AtYourServiceRemote](AtYourServiceRemote) for examples)
+AtYourService will create a hierarchy of folder in which are contained all the metadata about your services (see [AtYourServiceRemote](/documentation/Core/AtYourService/AtYourServiceRemote) for examples)
 
 **Package manager**
 It's kind of like Ubuntu's ```apt-get & service``` and ```ant``` tools all together in one easy command line tool that can control a whole cloud.
-Instead of the traditional (complicated) way of handling services data through databases or file system, AtYourService make use of [Revision Control Systems](http://en.wikipedia.org/wiki/Revision_control), especially [git](git-scm.com) in an elegant and modern way that suits A cloud architecture.
+Instead of the traditional (complicated) way of handling services data through databases or file system, AtYourService make use of [Revision Control Systems](http://en.wikipedia.org/wiki/Revision_control), especially [git](https://git-scm.com) in an elegant and modern way that suits A cloud architecture.
 AtYourService preserves the installation/build state, so if for example an installation/build attempt fails, next time the process will continue from the last point, this behavior of course could be changed, but it's the default behavior and it's very handy.
 AtYourService is able to install several instances of a service on the same machine.
 
@@ -25,7 +25,7 @@ if you want to start using @ys with your old installation of Jumpscale make sure
 - rename **/opt/jumpscale7/hrd/system/jpackage.hrd** to **/opt/jumpscale7/hrd/system/atyourservice.hrd**  
 - you can safely remove **/opt/jumpscale7/jpackage_actions** cause this folder is no longer use. the actions files of a service are now location next to its HRD file in **/opt/jumpscale7/hrd/apps**/opt/jumpscale7/hrd/apps
 be carefull is you just move your actions.py files to this new location without any other verification cause it's most likely that it will not be direclty compatible with @ys.  
-See this link to know [How to convert jpackage to service](AtYourServiceMigration.md)
+See this link to know [How to convert jpackage to service](/documentation/Core/AtYourService/AtYourServiceMigration)
 
 AtYourService system features
 ---------------------------
@@ -78,14 +78,14 @@ ays install -n mongodb #Install
           - Metadata will contain the URL for binary data repo for that service on [Remote Binary Repo/Aydo](http://git.aydo.com/org/binary)
           - In the next sections we'll explain in details how to configure and create a new service.
 
-- Examples see: [AtYourServiceExamples](AtYourServiceExamples)
-- [How to define dependencies in service.hrd](AtYourServiceDeps)
-- [How to define the exports (link between git repo's & filesystem)](AtYourServiceExports)
-- [How to define a process in service.hrd](AtYourServiceProcess)
-- [How to define Ubuntu features in service.hrd](AtYourServiceUbuntu)
-- [How to use the command line](AtYourServiceCmd)
-- [Locations of the important files](AtYourServiceFileLocations)
-- [AtYourServiceRemote](AtYourServiceRemote)
+- Examples see: [AtYourServiceExamples](/documentation/Core/AtYourService/AtYourServiceExamples)
+- [How to define dependencies in service.hrd](/documentation/Core/AtYourService/AtYourServiceDeps)
+- [How to define the exports (link between git repo's & filesystem)](/documentation/Core/AtYourService/AtYourServiceExports)
+- [How to define a process in service.hrd](/documentation/Core/AtYourService/AtYourServiceProcess)
+- [How to define Ubuntu features in service.hrd](/documentation/Core/AtYourService/AtYourServiceUbuntu)
+- [How to use the command line](/documentation/Core/AtYourService/AtYourServiceCmd)
+- [Locations of the important files](/documentation/Core/AtYourService/AtYourServiceFileLocations)
+- [AtYourServiceRemote](/documentation/Core/AtYourService/AtYourServiceRemote)
 
 
 How to configure a new service
@@ -112,11 +112,11 @@ the 3 important files
 - **service.hrd**
 - **instance.hrd**
 
-- [HRD format](Human-Readable-Data-Format) files + 1 python file)
+- [HRD format](/documentation/Core/Human-Readable-Data-Format) files + 1 python file)
 
 
 
 Installed AtYourService files
 -------------------------
 
-* [Service templates file locations](AtYourServiceFileLocations)
+* [Service templates file locations](/documentation/Core/AtYourService/AtYourServiceFileLocations)

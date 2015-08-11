@@ -10,4 +10,4 @@ title: "_Sidebar"
 * [Howto](/documentation/Howto/Howto)
 * [Architecture](/documentation/Architecture)
 * [ContributeToDocs](/documentation/ContributeToDocs)
-* [Human Readable Data Format](/documentation/core/Human-Readable-Data-Format)
+* [Human Readable Data Format](/documentation/Core/Human-Readable-Data-Format)
