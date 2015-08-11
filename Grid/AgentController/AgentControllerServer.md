@@ -17,8 +17,8 @@ doing.
 Executing of a task (Jumpscript)
 --------------------------------
 
-In JumpScale one can define a task in a [Jumpscript](Jumpscript) As
-[Jumpscript](Jumpscript) defines a set of intruction to execute how and
+In JumpScale one can define a task in a [Jumpscript](/documentation/Grid/AgentController/Jumpscript) As
+[Jumpscript](/documentation/Grid/AgentController/Jumpscript) defines a set of intruction to execute how and
 where to do so.
 
 Agentcontroller client

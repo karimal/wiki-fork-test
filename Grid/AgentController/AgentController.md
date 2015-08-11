@@ -20,12 +20,12 @@ Architecture
 Components
 ----------
 
--   [Agentcontroller](/documentation/Grid/AgentController/Agentcontroller)
+-   [Agentcontroller](/documentation/Grid/AgentController/AgentController)
 -   [ProcessManager](ProcessManager)
 -   [Worker](/documentation/Grid/AgentController/Workers)
 
 How To
 ------
 
--   [Schedule work using agentcontroller](ScheduleWork)
+-   [Schedule work using agentcontroller](/documentation/Grid/AgentController/ScheduleWork)
 
